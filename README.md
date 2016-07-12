@@ -4,7 +4,7 @@ For centos6 to [ansible/ansible-docker-base](https://github.com/ansible/ansible-
 
 # Usage
 ```
-$ docker run -it humangas/centos6-ansible bash
+$ docker run -it humangas/centos6-ansible /bin/bash
 ```
 
 
